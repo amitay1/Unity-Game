@@ -1,0 +1,14 @@
+# Ignore all files by default 
+* 
+!.gitignore 
+# Allow specific code files and directories 
+!Assets/ 
+Assets/* 
+!Assets/Scripts/ 
+!Assets/Scripts/**/ 
+!Assets/Scripts/**/*.cs 
+!Assets/Scripts/**/*.meta 
+!Assets/ScriptableObjects/ 
+!Assets/ScriptableObjects/**/ 
+!Assets/ScriptableObjects/**/*.cs 
+!Assets/ScriptableObjects/**/*.meta 
